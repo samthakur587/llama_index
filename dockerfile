@@ -16,6 +16,6 @@ RUN pip install -r otherreq.txt
 
 # Copy the rest of the application code into the container
 COPY . .
-
+EXPOSE 8000
 # Set the command to run the application
-CMD [ "python", "aap.py" ]
+CMD ["python","aap.py"]
