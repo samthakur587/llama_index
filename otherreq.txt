@@ -1,0 +1,6 @@
+fastapi
+python-dotenv
+PyPDF2
+uvloop
+sqlite-utils
+uvicorn

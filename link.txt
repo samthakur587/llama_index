@@ -1,0 +1,11 @@
+Misc-> "https://firebasestorage.googleapis.com/v0/b/compfox-381215.appspot.com/o/_audra_karim_PTP%20INITIAL%20RPT%202-5-20.pdf?alt=media&token=af98ea50-4a3c-4aeb-b24b-69a341558c3b"
+
+
+Pleading--> [
+  "https://firebasestorage.googleapis.com/v0/b/compfox-381215.appspot.com/o/_audra_karim_PTP%20INITIAL%20RPT%202-5-20.pdf?alt=media&token=af98ea50-4a3c-4aeb-b24b-69a341558c3b"
+]
+
+
+Transcript--> [
+  "https://firebasestorage.googleapis.com/v0/b/compfox-381215.appspot.com/o/_audra_karim_CROSS-X%20TRANSCRIPT%20DR.%20SALKINDER.pdf?alt=media&token=832bd2dc-da4c-4ff1-adaa-738e05bfab8e","https://firebasestorage.googleapis.com/v0/b/compfox-381215.appspot.com/o/8-31-22%20CROSS-X%20TRANSCRIPT%20SALKINDER%2C%20M.D.%2C%20GUSTAV-%20VOL.%20I.pdf?alt=media&token=00c55ee5-91ec-4ab2-9fb0-43930e026855"
+]
